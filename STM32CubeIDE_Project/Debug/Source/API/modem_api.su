@@ -1,0 +1,15 @@
+../Source/API/modem_api.c:126:13:Modem_API_EndOfSmsCallback	24	static
+../Source/API/modem_api.c:141:13:Modem_API_ParseSms	16	static
+../Source/API/modem_api.c:150:13:Modem_API_ParseMessage	24	static
+../Source/API/modem_api.c:174:13:Modem_API_Thread	16	static
+../Source/API/modem_api.c:207:13:Modem_API_InitGpio	8	static
+../Source/API/modem_api.c:232:6:Modem_API_Init	16	static
+../Source/API/modem_api.c:277:6:Modem_API_PutResponse	24	static
+../Source/API/modem_api.c:293:6:Modem_API_GetResponse	16	static
+../Source/API/modem_api.c:307:6:Modem_API_SendAndWait	40	static
+../Source/API/modem_api.c:351:6:Modem_API_Send	32	static
+../Source/API/modem_api.c:374:6:Modem_API_SetFlag	24	static
+../Source/API/modem_api.c:383:6:Modem_API_ClearFlag	24	static
+../Source/API/modem_api.c:392:6:Modem_API_WaitFlag	24	static
+../Source/API/modem_api.c:405:6:SMS_APP_SendAndSetFlag	24	static
+../Source/API/modem_api.c:412:22:Modem_API_GetState	16	static

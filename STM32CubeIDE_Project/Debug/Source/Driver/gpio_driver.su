@@ -1,0 +1,12 @@
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:411:22:LL_AHB1_GRP1_EnableClock	24	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:772:26:LL_GPIO_ReadInputPort	16	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:824:26:LL_GPIO_ReadOutputPort	16	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:882:22:LL_GPIO_SetOutputPin	16	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:911:22:LL_GPIO_ResetOutputPin	16	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:940:22:LL_GPIO_TogglePin	24	static
+../Source/Driver/gpio_driver.c:63:6:GPIO_Driver_Init	48	static
+../Source/Driver/gpio_driver.c:90:6:GPIO_Driver_SetPin	16	static
+../Source/Driver/gpio_driver.c:99:6:GPIO_Driver_ResetPin	16	static
+../Source/Driver/gpio_driver.c:108:6:GPIO_Driver_TogglePin	16	static
+../Source/Driver/gpio_driver.c:117:6:GPIO_Driver_ReadOutputPin	16	static
+../Source/Driver/gpio_driver.c:126:6:GPIO_Driver_ReadInputPin	16	static

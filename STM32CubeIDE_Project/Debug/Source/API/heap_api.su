@@ -1,0 +1,4 @@
+../Source/API/heap_api.c:44:6:Heap_API_Init	8	static
+../Source/API/heap_api.c:55:7:Heap_API_Allocate	24	static
+../Source/API/heap_api.c:89:6:Heap_API_Free	16	static
+../Source/API/heap_api.c:118:10:Heap_API_BlockCount	4	static

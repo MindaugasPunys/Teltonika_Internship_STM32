@@ -1,0 +1,10 @@
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3986:22:LL_RCC_SetRTCClockSource	16	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:4000:26:LL_RCC_GetRTCClockSource	4	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:4010:22:LL_RCC_EnableRTC	4	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:4040:22:LL_RCC_ForceBackupDomainReset	4	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:4050:22:LL_RCC_ReleaseBackupDomainReset	4	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rtc.h:945:22:LL_RTC_SetAsynchPrescaler	16	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rtc.h:957:22:LL_RTC_SetSynchPrescaler	16	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rtc.h:2923:22:LL_RTC_BAK_SetRegister	32	static
+../Source/ThirdParty/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rtc.h:2961:26:LL_RTC_BAK_GetRegister	24	static
+../Source/ThirdParty/Core/Src/rtc.c:28:6:MX_RTC_Init	32	static

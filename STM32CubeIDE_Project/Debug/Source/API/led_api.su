@@ -1,0 +1,4 @@
+../Source/API/led_api.c:43:6:LED_API_Init	16	static
+../Source/API/led_api.c:53:6:LED_API_SetPin	16	static
+../Source/API/led_api.c:65:6:LED_API_ResetPin	16	static
+../Source/API/led_api.c:77:6:LED_API_TogglePin	16	static

@@ -1,0 +1,7 @@
+../Source/APP/sms_app.c:59:13:SMS_APP_Setup	16	static
+../Source/APP/sms_app.c:100:13:SMS_APP_SendSms	16	static
+../Source/APP/sms_app.c:106:13:SMS_APP_ReadSms	16	static
+../Source/APP/sms_app.c:115:13:SMS_APP_ParseSms	64	dynamic
+../Source/APP/sms_app.c:147:13:SMS_APP_ReadAllSms	8	static
+../Source/APP/sms_app.c:152:13:SMS_APP_Thread	16	static
+../Source/APP/sms_app.c:203:6:SMS_APP_Init	8	static

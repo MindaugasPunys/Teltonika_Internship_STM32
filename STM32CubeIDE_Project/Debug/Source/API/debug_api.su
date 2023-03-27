@@ -1,0 +1,2 @@
+../Source/API/debug_api.c:59:6:Debug_API_Init	8	static
+../Source/API/debug_api.c:69:6:Debug_API_Print	44	static

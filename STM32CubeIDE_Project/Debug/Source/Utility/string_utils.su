@@ -1,0 +1,13 @@
+../Source/Utility/string_utils.c:42:6:StrContains	32	static
+../Source/Utility/string_utils.c:50:5:StrCountChars	40	static
+../Source/Utility/string_utils.c:67:6:StrRemChar	40	static
+../Source/Utility/string_utils.c:81:6:StrRemSubstring	40	static
+../Source/Utility/string_utils.c:102:6:StrCompare	24	static
+../Source/Utility/string_utils.c:110:6:StrIsNumber	24	static
+../Source/Utility/string_utils.c:121:6:StrToUint	24	static
+../Source/Utility/string_utils.c:132:6:StrToHex	32	static
+../Source/Utility/string_utils.c:146:6:StrHexToStr	32	static
+../Source/Utility/string_utils.c:165:7:StrLastSubstring	32	static
+../Source/Utility/string_utils.c:187:7:StrLastLine	24	static
+../Source/Utility/string_utils.c:198:6:StrUint32ToUint8	24	static
+../Source/Utility/string_utils.c:216:6:StrUint8ToUint32	24	static

@@ -1,0 +1,10 @@
+../Source/APP/network_app.c:63:13:Network_APP_Thread	32	static
+../Source/APP/network_app.c:93:6:Network_APP_Init	8	static
+../Source/APP/network_app.c:102:6:Network_APP_SetState	32	static
+../Source/APP/network_app.c:129:6:Network_APP_OpenSocket	24	static
+../Source/APP/network_app.c:151:6:Network_APP_CloseSocket	16	static
+../Source/APP/network_app.c:160:6:Network_APP_ReadSocket	16	static
+../Source/APP/network_app.c:167:6:Network_APP_AttachMT	8	static
+../Source/APP/network_app.c:176:6:Network_APP_DetachMT	8	static
+../Source/APP/network_app.c:190:6:Network_APP_SendTcp	24	static
+../Source/APP/network_app.c:212:6:Network_APP_SendUdp	24	static

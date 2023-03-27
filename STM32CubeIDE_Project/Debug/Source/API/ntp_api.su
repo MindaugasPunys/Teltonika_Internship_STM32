@@ -1,0 +1,6 @@
+../Source/API/ntp_api.c:46:13:NTP_API_StructToHexStr	24	static
+../Source/API/ntp_api.c:59:13:NTP_API_HexStrToStruct	24	static
+../Source/API/ntp_api.c:71:17:NTP_API_StructToArray	24	static
+../Source/API/ntp_api.c:97:13:NTP_API_ArrayToStruct	16	static
+../Source/API/ntp_api.c:121:13:NTP_API_AppendUint32	32	static
+../Source/API/ntp_api.c:134:6:NTP_API_GetNtp	48	static

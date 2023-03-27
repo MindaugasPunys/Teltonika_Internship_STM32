@@ -1,0 +1,12 @@
+../Source/Utility/circ_buffer.c:44:13:Circ_Buffer_advance_pointer	16	static
+../Source/Utility/circ_buffer.c:62:13:CIRC_Buffer_retreat_pointer	16	static
+../Source/Utility/circ_buffer.c:78:15:CIRC_Buffer_init	24	static
+../Source/Utility/circ_buffer.c:95:6:CIRC_Buffer_reset	16	static
+../Source/Utility/circ_buffer.c:108:6:CIRC_Buffer_free	16	static
+../Source/Utility/circ_buffer.c:118:6:CIRC_Buffer_full	16	static
+../Source/Utility/circ_buffer.c:125:6:CIRC_Buffer_empty	16	static
+../Source/Utility/circ_buffer.c:132:8:CIRC_Buffer_capacity	16	static
+../Source/Utility/circ_buffer.c:139:8:CIRC_Buffer_size	24	static
+../Source/Utility/circ_buffer.c:158:6:CIRC_Buffer_put	16	static
+../Source/Utility/circ_buffer.c:166:6:CIRC_Buffer_put2	24	static
+../Source/Utility/circ_buffer.c:181:6:CIRC_Buffer_get	24	static

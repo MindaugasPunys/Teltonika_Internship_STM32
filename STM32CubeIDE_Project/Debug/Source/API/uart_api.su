@@ -1,0 +1,4 @@
+../Source/API/uart_api.c:79:13:UART_API_Thread	48	static
+../Source/API/uart_api.c:153:6:UART_API_Init	32	static
+../Source/API/uart_api.c:210:6:UART_API_GetMessage	16	static
+../Source/API/uart_api.c:222:6:UART_API_SendString	24	static
